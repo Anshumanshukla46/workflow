@@ -1,0 +1,23 @@
+.title {
+    border: 1px solid blue;
+}
+
+.table {
+    border: 1px solid brown;
+}
+
+.table-head {
+    color: white;
+    font-weight: 700;
+    background-color: #16728f;
+}
+
+.table-body {
+    color: white;
+    font-weight: 700;
+    background-color: #b2ced6;
+}
+
+.link-tag {
+    text-decoration: none;
+}
